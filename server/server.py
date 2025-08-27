@@ -132,6 +132,7 @@ if __name__ == "__main__":
     # Inicia servidor em thread DAEMON e roda a UI na thread principal
     threading.Thread(target=server_loop, daemon=True).start()
     try:
+        print("Caso vá iniciar com emulador: 10.0.2.2")
         ui_loop()  # bloqueia até a janela ser fechada
     except KeyboardInterrupt:
         pass
