@@ -1,0 +1,1 @@
+Aplicativo multiplataforma (Android em Kotlin e iOS em Swift) que captura fotos e as envia via socket TCP para um servidor Python, que salva e exibe imediatamente a última imagem recebida no protocolo “4 bytes de tamanho + JPEG”.
