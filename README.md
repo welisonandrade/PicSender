@@ -3,6 +3,7 @@
 Um projeto simples de cliente-servidor para capturar fotos em um dispositivo móvel (Android e futuramente iOS) e enviá-las via Wi-Fi para um servidor Python que as exibe em tempo real e as armazena em disco.
 
 ## Visao Geral
+![alt text](/Screeenshots/Captura%20de%20tela%202025-08-29%20072050.png)
 
 ## Funcionalidades
 - Captura de Imagem: Tira fotos usando a câmera nativa do dispositivo.
