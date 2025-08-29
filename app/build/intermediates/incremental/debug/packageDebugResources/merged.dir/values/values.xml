@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ps_black">#000000</color>
+    <color name="ps_gray">#222222</color>
+    <color name="ps_green">#18C964</color>
+    <color name="ps_white">#FFFFFF</color>
+    <string name="app_name">PicSender</string>
+    <style name="Theme.PicSender" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+color ps_black
+color ps_gray
+color ps_green
+color ps_white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.PicSender
+xml backup_rules
+xml data_extraction_rules
+xml file_paths
