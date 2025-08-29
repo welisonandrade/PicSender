@@ -7,7 +7,7 @@ import queue
 import cv2
 import numpy as np
 
-HOST = os.environ.get("HOST", "127.0.0.1")
+HOST = os.environ.get("HOST", "0.0.0.0")
 PORT = int(os.environ.get("PORT", "5001"))
 SAVE_ROOT = "data"
 WINDOW_NAME = "Última foto recebida"
